@@ -1,7 +1,7 @@
 # App Song Lyrics
 
 ## Sobre
-- App que utiliza a api pública Lyrics.Ovh para te mostrar a letra de uma música, informando ao app o nome do artista e o nome da música desejada.
+- App React Native que utiliza a api pública Lyrics.Ovh para te mostrar a letra de uma música, informando ao app o nome do artista e o nome da música desejada.
 
 ## Para rodar em sua máquina:
 
